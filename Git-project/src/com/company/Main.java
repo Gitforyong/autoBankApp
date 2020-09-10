@@ -7,5 +7,7 @@ public class Main {
         System.out.println("hello,git.");
 
         System.out.println("ĞŞ¸ÄÌá½»");
+
+        System.out.println("hello,git.");
     }
 }
